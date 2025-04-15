@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+I'm a Computer Science graduate student at California State University, Fullerton, passionate about building scalable systems and solving real-world problems with code.
+
+- 🔭 I’m currently working on:
+- Distributed Systems & Virtualization (Firecracker, gVisor, Xen)
+- Software Engineering & Agile Development
+- Data Science & Machine Learning
+- 🌱 I’m currently Working on Python, Java, and exploring cloud technologies.
+- 👯 I’m looking to collaborate on exciting internship opportunities in Software Engineering, Data Science, or IT Infrastructure.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishnu-priyan-bhaskar-7bab71265/) | [Email]vishnumax03@gmail.com
 
 <!--
 **XXV007/XXV007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
