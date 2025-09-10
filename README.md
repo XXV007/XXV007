@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the first time I wrote "Hello World!" without the quotes.<br>📚 I'm currently learning advanced concepts in software engineering, system design, and building real-world apps.<br>🎯 Goals: to master backend development, contribute to open-source projects, and land a great internship.<br>🎲 Fun fact: I once spent 3 hours debugging a program only to find I forgot a semicolon.</p>
+<p align="left">✨ Creating bugs since the first time I wrote "Hello World!" without the quotes.<br>📚 I'm currently learning advanced concepts in software engineering, system design, and building real-world apps.<br>🎯 Goals: to master backend development, contribute to open-source projects, and land a great fulltime job.</p>
 
 ###
 
