@@ -91,7 +91,12 @@ Building production AI systems, scalable backend services, and intelligent autom
 ### Cloud & DevOps
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+  alt="AWS"
+  width="45"
+  height="45"
+/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
@@ -136,18 +141,6 @@ Production-ready AI platform featuring:
 ### 🧠 ML Ticket Classification
 
 Machine learning system that automatically classifies customer support tickets using NLP techniques, reducing manual triage effort and improving support efficiency.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XXV007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXV007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
